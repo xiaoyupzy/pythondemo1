@@ -1,4 +1,2 @@
 
-print("test。。。。。。")
-
-print("nihao. 你好，世界")
+print("test")
